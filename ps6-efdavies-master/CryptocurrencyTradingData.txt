@@ -1,0 +1,1380 @@
+11-Dec-22
+Bitcoin: 17104.19
+Binance: 1263.87
+DogeCoin: 0.09287
+10-Dec-22
+Bitcoin: 17128.72
+Binance: 1266.38
+DogeCoin: 0.09646
+9-Dec-22
+Bitcoin: 17133.15
+Binance: 1264.28
+DogeCoin: 0.09666
+8-Dec-22
+Bitcoin: 17233.47
+Binance: 1281.12
+DogeCoin: 0.09854
+7-Dec-22
+Bitcoin: 16848.13
+Binance: 1232.44
+DogeCoin: 0.09578
+6-Dec-22
+Bitcoin: 17089.50
+Binance: 1271.65
+DogeCoin: 0.10030
+5-Dec-22
+Bitcoin: 16974.83
+Binance: 1259.68
+DogeCoin: 0.10150
+4-Dec-22
+Bitcoin: 17130.49
+Binance: 1280.26
+DogeCoin: 0.10430
+3-Dec-22
+Bitcoin: 16908.24
+Binance: 1243.33
+DogeCoin: 0.09982
+2-Dec-22
+Bitcoin: 17088.66
+Binance: 1294.30
+DogeCoin: 0.10210
+1-Dec-22
+Bitcoin: 16967.13
+Binance: 1276.27
+DogeCoin: 0.10160
+30-Nov-22
+Bitcoin: 17168.57
+Binance: 1295.69
+DogeCoin: 0.10690
+29-Nov-22
+Bitcoin: 16444.98
+Binance: 1216.90
+DogeCoin: 0.10190
+28-Nov-22
+Bitcoin: 16217.32
+Binance: 1170.09
+DogeCoin: 0.09512
+27-Nov-22
+Bitcoin: 16444.63
+Binance: 1195.13
+DogeCoin: 0.09871
+26-Nov-22
+Bitcoin: 16464.28
+Binance: 1205.90
+DogeCoin: 0.08899
+25-Nov-22
+Bitcoin: 16521.84
+Binance: 1198.93
+DogeCoin: 0.08948
+24-Nov-22
+Bitcoin: 16604.47
+Binance: 1203.98
+DogeCoin: 0.08148
+23-Nov-22
+Bitcoin: 16610.71
+Binance: 1183.20
+DogeCoin: 0.08179
+22-Nov-22
+Bitcoin: 16189.77
+Binance: 1135.17
+DogeCoin: 0.07849
+21-Nov-22
+Bitcoin: 15787.28
+Binance: 1108.35
+DogeCoin: 0.07471
+20-Nov-22
+Bitcoin: 16291.83
+Binance: 1142.47
+DogeCoin: 0.07717
+19-Nov-22
+Bitcoin: 16711.55
+Binance: 1218.43
+DogeCoin: 0.08458
+18-Nov-22
+Bitcoin: 16697.78
+Binance: 1212.30
+DogeCoin: 0.08467
+17-Nov-22
+Bitcoin: 16687.52
+Binance: 1200.81
+DogeCoin: 0.08477
+16-Nov-22
+Bitcoin: 16669.44
+Binance: 1215.60
+DogeCoin: 0.08558
+15-Nov-22
+Bitcoin: 16884.61
+Binance: 1251.74
+DogeCoin: 0.08697
+14-Nov-22
+Bitcoin: 16618.20
+Binance: 1241.60
+DogeCoin: 0.08588
+13-Nov-22
+Bitcoin: 16353.37
+Binance: 1221.82
+DogeCoin: 0.08489
+12-Nov-22
+Bitcoin: 16799.18
+Binance: 1255.27
+DogeCoin: 0.08804
+11-Nov-22
+Bitcoin: 17034.29
+Binance: 1287.22
+DogeCoin: 0.08489
+10-Nov-22
+Bitcoin: 17586.77
+Binance: 1299.46
+DogeCoin: 0.08979
+9-Nov-22
+Bitcoin: 15880.78
+Binance: 1100.17
+DogeCoin: 0.07429
+8-Nov-22
+Bitcoin: 18541.27
+Binance: 1332.84
+DogeCoin: 0.08841
+7-Nov-22
+Bitcoin: 20602.82
+Binance: 1568.59
+DogeCoin: 0.11130
+6-Nov-22
+Bitcoin: 20926.49
+Binance: 1572.23
+DogeCoin: 0.11460
+5-Nov-22
+Bitcoin: 21282.69
+Binance: 1627.97
+DogeCoin: 0.12440
+4-Nov-22
+Bitcoin: 21147.23
+Binance: 1645.09
+DogeCoin: 0.12630
+3-Nov-22
+Bitcoin: 20209.99
+Binance: 1531.54
+DogeCoin: 0.12260
+2-Nov-22
+Bitcoin: 20159.50
+Binance: 1519.71
+DogeCoin: 0.12780
+1-Nov-22
+Bitcoin: 20485.27
+Binance: 1579.70
+DogeCoin: 0.14260
+31-Oct-22
+Bitcoin: 20495.77
+Binance: 1572.71
+DogeCoin: 0.12700
+30-Oct-22
+Bitcoin: 20635.60
+Binance: 1590.78
+DogeCoin: 0.11780
+29-Oct-22
+Bitcoin: 20818.48
+Binance: 1619.70
+DogeCoin: 0.12160
+28-Oct-22
+Bitcoin: 20595.35
+Binance: 1555.48
+DogeCoin: 0.08390
+27-Oct-22
+Bitcoin: 20285.84
+Binance: 1514.37
+DogeCoin: 0.07702
+26-Oct-22
+Bitcoin: 20770.44
+Binance: 1566.57
+DogeCoin: 0.07280
+25-Oct-22
+Bitcoin: 20095.86
+Binance: 1461.67
+DogeCoin: 0.06288
+24-Oct-22
+Bitcoin: 19345.57
+Binance: 1345.00
+DogeCoin: 0.05951
+23-Oct-22
+Bitcoin: 19567.01
+Binance: 1363.45
+DogeCoin: 0.06035
+22-Oct-22
+Bitcoin: 19208.19
+Binance: 1314.30
+DogeCoin: 0.05969
+21-Oct-22
+Bitcoin: 19172.47
+Binance: 1299.95
+DogeCoin: 0.05933
+20-Oct-22
+Bitcoin: 19053.74
+Binance: 1283.20
+DogeCoin: 0.05954
+19-Oct-22
+Bitcoin: 19139.53
+Binance: 1285.74
+DogeCoin: 0.05871
+18-Oct-22
+Bitcoin: 19334.42
+Binance: 1310.45
+DogeCoin: 0.05978
+17-Oct-22
+Bitcoin: 19550.76
+Binance: 1331.71
+DogeCoin: 0.05994
+16-Oct-22
+Bitcoin: 19268.09
+Binance: 1306.30
+DogeCoin: 0.05891
+15-Oct-22
+Bitcoin: 19067.64
+Binance: 1274.87
+DogeCoin: 0.05858
+14-Oct-22
+Bitcoin: 19185.66
+Binance: 1297.42
+DogeCoin: 0.05864
+13-Oct-22
+Bitcoin: 19382.90
+Binance: 1288.12
+DogeCoin: 0.05967
+12-Oct-22
+Bitcoin: 19157.45
+Binance: 1294.91
+DogeCoin: 0.05988
+11-Oct-22
+Bitcoin: 19051.42
+Binance: 1279.58
+DogeCoin: 0.06026
+10-Oct-22
+Bitcoin: 19141.48
+Binance: 1291.34
+DogeCoin: 0.05951
+9-Oct-22
+Bitcoin: 19446.43
+Binance: 1322.60
+DogeCoin: 0.06216
+8-Oct-22
+Bitcoin: 19416.57
+Binance: 1315.50
+DogeCoin: 0.06168
+7-Oct-22
+Bitcoin: 19546.85
+Binance: 1332.52
+DogeCoin: 0.06241
+6-Oct-22
+Bitcoin: 19955.44
+Binance: 1351.71
+DogeCoin: 0.06344
+5-Oct-22
+Bitcoin: 20160.72
+Binance: 1352.84
+DogeCoin: 0.06473
+4-Oct-22
+Bitcoin: 20336.84
+Binance: 1362.13
+DogeCoin: 0.06596
+3-Oct-22
+Bitcoin: 19623.58
+Binance: 1323.44
+DogeCoin: 0.06038
+2-Oct-22
+Bitcoin: 19044.11
+Binance: 1276.09
+DogeCoin: 0.05929
+1-Oct-22
+Bitcoin: 19312.09
+Binance: 1311.64
+DogeCoin: 0.06063
+30-Sep-22
+Bitcoin: 19431.79
+Binance: 1327.98
+DogeCoin: 0.06165
+29-Sep-22
+Bitcoin: 19573.05
+Binance: 1335.65
+DogeCoin: 0.06073
+28-Sep-22
+Bitcoin: 19426.72
+Binance: 1337.41
+DogeCoin: 0.06062
+27-Sep-22
+Bitcoin: 19110.55
+Binance: 1330.13
+DogeCoin: 0.06061
+26-Sep-22
+Bitcoin: 19222.67
+Binance: 1335.32
+DogeCoin: 0.06109
+25-Sep-22
+Bitcoin: 18802.10
+Binance: 1294.22
+DogeCoin: 0.06115
+24-Sep-22
+Bitcoin: 18937.01
+Binance: 1317.99
+DogeCoin: 0.06323
+23-Sep-22
+Bitcoin: 19297.64
+Binance: 1328.26
+DogeCoin: 0.06334
+22-Sep-22
+Bitcoin: 19413.55
+Binance: 1327.68
+DogeCoin: 0.05960
+21-Sep-22
+Bitcoin: 18547.40
+Binance: 1252.61
+DogeCoin: 0.05740
+20-Sep-22
+Bitcoin: 18890.79
+Binance: 1324.39
+DogeCoin: 0.05842
+19-Sep-22
+Bitcoin: 19544.13
+Binance: 1377.54
+DogeCoin: 0.05861
+18-Sep-22
+Bitcoin: 19419.51
+Binance: 1335.33
+DogeCoin: 0.05752
+17-Sep-22
+Bitcoin: 20127.58
+Binance: 1469.74
+DogeCoin: 0.06221
+16-Sep-22
+Bitcoin: 19772.58
+Binance: 1432.45
+DogeCoin: 0.06042
+15-Sep-22
+Bitcoin: 19701.21
+Binance: 1471.69
+DogeCoin: 0.05879
+14-Sep-22
+Bitcoin: 20241.09
+Binance: 1634.76
+DogeCoin: 0.06117
+13-Sep-22
+Bitcoin: 20296.71
+Binance: 1580.79
+DogeCoin: 0.06013
+12-Sep-22
+Bitcoin: 22370.45
+Binance: 1713.77
+DogeCoin: 0.06390
+11-Sep-22
+Bitcoin: 21769.26
+Binance: 1761.80
+DogeCoin: 0.06371
+10-Sep-22
+Bitcoin: 21680.54
+Binance: 1776.20
+DogeCoin: 0.06478
+9-Sep-22
+Bitcoin: 21381.15
+Binance: 1719.09
+DogeCoin: 0.06402
+8-Sep-22
+Bitcoin: 19329.83
+Binance: 1635.35
+DogeCoin: 0.06098
+7-Sep-22
+Bitcoin: 19290.32
+Binance: 1629.91
+DogeCoin: 0.06110
+6-Sep-22
+Bitcoin: 18837.67
+Binance: 1561.75
+DogeCoin: 0.05898
+5-Sep-22
+Bitcoin: 19812.37
+Binance: 1617.18
+DogeCoin: 0.06274
+4-Sep-22
+Bitcoin: 19986.71
+Binance: 1577.64
+DogeCoin: 0.06323
+3-Sep-22
+Bitcoin: 19832.09
+Binance: 1556.87
+DogeCoin: 0.06269
+2-Sep-22
+Bitcoin: 19969.77
+Binance: 1577.22
+DogeCoin: 0.06163
+1-Sep-22
+Bitcoin: 20127.14
+Binance: 1586.18
+DogeCoin: 0.06237
+31-Aug-22
+Bitcoin: 20049.76
+Binance: 1553.68
+DogeCoin: 0.06133
+30-Aug-22
+Bitcoin: 19796.81
+Binance: 1523.84
+DogeCoin: 0.06153
+29-Aug-22
+Bitcoin: 20297.99
+Binance: 1553.04
+DogeCoin: 0.06389
+28-Aug-22
+Bitcoin: 19616.81
+Binance: 1430.55
+DogeCoin: 0.06179
+27-Aug-22
+Bitcoin: 20041.74
+Binance: 1491.40
+DogeCoin: 0.06359
+26-Aug-22
+Bitcoin: 20260.02
+Binance: 1507.78
+DogeCoin: 0.06357
+25-Aug-22
+Bitcoin: 21600.91
+Binance: 1696.46
+DogeCoin: 0.06909
+24-Aug-22
+Bitcoin: 21395.02
+Binance: 1657.06
+DogeCoin: 0.06799
+23-Aug-22
+Bitcoin: 21528.09
+Binance: 1662.77
+DogeCoin: 0.06877
+22-Aug-22
+Bitcoin: 21398.91
+Binance: 1622.51
+DogeCoin: 0.06839
+21-Aug-22
+Bitcoin: 21534.12
+Binance: 1619.32
+DogeCoin: 0.06945
+20-Aug-22
+Bitcoin: 21166.06
+Binance: 1577.00
+DogeCoin: 0.06954
+19-Aug-22
+Bitcoin: 20877.55
+Binance: 1612.99
+DogeCoin: 0.06794
+18-Aug-22
+Bitcoin: 23212.74
+Binance: 1847.01
+DogeCoin: 0.07508
+17-Aug-22
+Bitcoin: 23336.00
+Binance: 1833.00
+DogeCoin: 0.08015
+16-Aug-22
+Bitcoin: 23883.29
+Binance: 1878.14
+DogeCoin: 0.08696
+15-Aug-22
+Bitcoin: 24136.97
+Binance: 1904.23
+DogeCoin: 0.07672
+14-Aug-22
+Bitcoin: 24319.33
+Binance: 1936.80
+DogeCoin: 0.08169
+13-Aug-22
+Bitcoin: 24424.07
+Binance: 1981.34
+DogeCoin: 0.07284
+12-Aug-22
+Bitcoin: 24402.82
+Binance: 1957.25
+DogeCoin: 0.07235
+11-Aug-22
+Bitcoin: 23957.53
+Binance: 1881.22
+DogeCoin: 0.07093
+10-Aug-22
+Bitcoin: 23947.64
+Binance: 1851.74
+DogeCoin: 0.07120
+9-Aug-22
+Bitcoin: 23164.32
+Binance: 1703.03
+DogeCoin: 0.06913
+8-Aug-22
+Bitcoin: 23809.49
+Binance: 1775.52
+DogeCoin: 0.07005
+7-Aug-22
+Bitcoin: 23175.89
+Binance: 1699.35
+DogeCoin: 0.06894
+6-Aug-22
+Bitcoin: 22961.28
+Binance: 1691.66
+DogeCoin: 0.06867
+5-Aug-22
+Bitcoin: 23289.31
+Binance: 1732.25
+DogeCoin: 0.06976
+4-Aug-22
+Bitcoin: 22630.96
+Binance: 1608.21
+DogeCoin: 0.06736
+3-Aug-22
+Bitcoin: 22846.51
+Binance: 1618.87
+DogeCoin: 0.06620
+2-Aug-22
+Bitcoin: 22978.12
+Binance: 1632.95
+DogeCoin: 0.06669
+1-Aug-22
+Bitcoin: 23314.20
+Binance: 1635.20
+DogeCoin: 0.06873
+31-Jul-22
+Bitcoin: 23336.90
+Binance: 1681.52
+DogeCoin: 0.06827
+30-Jul-22
+Bitcoin: 23656.21
+Binance: 1695.97
+DogeCoin: 0.06964
+29-Jul-22
+Bitcoin: 23804.63
+Binance: 1727.41
+DogeCoin: 0.06891
+28-Jul-22
+Bitcoin: 23843.89
+Binance: 1725.47
+DogeCoin: 0.06911
+27-Jul-22
+Bitcoin: 22930.55
+Binance: 1636.23
+DogeCoin: 0.06702
+26-Jul-22
+Bitcoin: 21239.75
+Binance: 1441.81
+DogeCoin: 0.06251
+25-Jul-22
+Bitcoin: 21361.70
+Binance: 1445.38
+DogeCoin: 0.06231
+24-Jul-22
+Bitcoin: 22609.16
+Binance: 1599.48
+DogeCoin: 0.06772
+23-Jul-22
+Bitcoin: 22465.48
+Binance: 1549.30
+DogeCoin: 0.06812
+22-Jul-22
+Bitcoin: 22714.98
+Binance: 1537.41
+DogeCoin: 0.06756
+21-Jul-22
+Bitcoin: 23164.63
+Binance: 1576.75
+DogeCoin: 0.06996
+20-Jul-22
+Bitcoin: 23231.73
+Binance: 1520.20
+DogeCoin: 0.07012
+19-Jul-22
+Bitcoin: 23389.43
+Binance: 1542.98
+DogeCoin: 0.06901
+18-Jul-22
+Bitcoin: 22485.69
+Binance: 1578.72
+DogeCoin: 0.06772
+17-Jul-22
+Bitcoin: 20779.34
+Binance: 1338.64
+DogeCoin: 0.06311
+16-Jul-22
+Bitcoin: 21190.32
+Binance: 1352.63
+DogeCoin: 0.06428
+15-Jul-22
+Bitcoin: 20836.33
+Binance: 1233.13
+DogeCoin: 0.06304
+14-Jul-22
+Bitcoin: 20569.92
+Binance: 1191.53
+DogeCoin: 0.06239
+13-Jul-22
+Bitcoin: 20212.07
+Binance: 1113.59
+DogeCoin: 0.06195
+12-Jul-22
+Bitcoin: 19323.91
+Binance: 1038.19
+DogeCoin: 0.06009
+11-Jul-22
+Bitcoin: 19970.56
+Binance: 1097.24
+DogeCoin: 0.06185
+10-Jul-22
+Bitcoin: 20860.45
+Binance: 1168.40
+DogeCoin: 0.06726
+9-Jul-22
+Bitcoin: 21592.21
+Binance: 1216.98
+DogeCoin: 0.06951
+8-Jul-22
+Bitcoin: 21731.12
+Binance: 1222.51
+DogeCoin: 0.06926
+7-Jul-22
+Bitcoin: 21637.59
+Binance: 1237.59
+DogeCoin: 0.07062
+6-Jul-22
+Bitcoin: 20548.25
+Binance: 1186.97
+DogeCoin: 0.06858
+5-Jul-22
+Bitcoin: 20190.11
+Binance: 1134.54
+DogeCoin: 0.06715
+4-Jul-22
+Bitcoin: 20231.26
+Binance: 1151.06
+DogeCoin: 0.06947
+3-Jul-22
+Bitcoin: 19297.08
+Binance: 1073.77
+DogeCoin: 0.06718
+2-Jul-22
+Bitcoin: 19242.26
+Binance: 1066.51
+DogeCoin: 0.06670
+1-Jul-22
+Bitcoin: 19269.37
+Binance: 1059.77
+DogeCoin: 0.06617
+30-Jun-22
+Bitcoin: 19784.73
+Binance: 1067.30
+DogeCoin: 0.06609
+29-Jun-22
+Bitcoin: 20104.02
+Binance: 1098.94
+DogeCoin: 0.06947
+28-Jun-22
+Bitcoin: 20280.64
+Binance: 1144.58
+DogeCoin: 0.06596
+27-Jun-22
+Bitcoin: 20735.48
+Binance: 1193.68
+DogeCoin: 0.07224
+26-Jun-22
+Bitcoin: 21027.30
+Binance: 1199.83
+DogeCoin: 0.07318
+25-Jun-22
+Bitcoin: 21502.34
+Binance: 1243.45
+DogeCoin: 0.06850
+24-Jun-22
+Bitcoin: 21231.66
+Binance: 1226.84
+DogeCoin: 0.06712
+23-Jun-22
+Bitcoin: 21085.88
+Binance: 1143.39
+DogeCoin: 0.06403
+22-Jun-22
+Bitcoin: 19987.03
+Binance: 1051.42
+DogeCoin: 0.06171
+21-Jun-22
+Bitcoin: 20710.60
+Binance: 1124.82
+DogeCoin: 0.06557
+20-Jun-22
+Bitcoin: 20599.54
+Binance: 1127.64
+DogeCoin: 0.06018
+19-Jun-22
+Bitcoin: 20553.27
+Binance: 1127.66
+DogeCoin: 0.06040
+18-Jun-22
+Bitcoin: 19017.64
+Binance: 993.64
+DogeCoin: 0.05301
+17-Jun-22
+Bitcoin: 20471.48
+Binance: 1086.52
+DogeCoin: 0.05699
+16-Jun-22
+Bitcoin: 20381.65
+Binance: 1067.73
+DogeCoin: 0.05503
+15-Jun-22
+Bitcoin: 22572.84
+Binance: 1233.21
+DogeCoin: 0.06300
+14-Jun-22
+Bitcoin: 22206.79
+Binance: 1211.66
+DogeCoin: 0.05559
+13-Jun-22
+Bitcoin: 22487.39
+Binance: 1204.58
+DogeCoin: 0.05392
+12-Jun-22
+Bitcoin: 26762.65
+Binance: 1445.22
+DogeCoin: 0.06434
+11-Jun-22
+Bitcoin: 28360.81
+Binance: 1529.66
+DogeCoin: 0.06990
+10-Jun-22
+Bitcoin: 29083.80
+Binance: 1665.04
+DogeCoin: 0.07545
+9-Jun-22
+Bitcoin: 30112.00
+Binance: 1789.83
+DogeCoin: 0.07934
+8-Jun-22
+Bitcoin: 30214.36
+Binance: 1793.57
+DogeCoin: 0.07944
+7-Jun-22
+Bitcoin: 31155.48
+Binance: 1814.05
+DogeCoin: 0.08051
+6-Jun-22
+Bitcoin: 31370.67
+Binance: 1859.29
+DogeCoin: 0.08253
+5-Jun-22
+Bitcoin: 29906.66
+Binance: 1805.20
+DogeCoin: 0.08123
+4-Jun-22
+Bitcoin: 29832.91
+Binance: 1801.61
+DogeCoin: 0.08178
+3-Jun-22
+Bitcoin: 29704.39
+Binance: 1775.08
+DogeCoin: 0.08044
+2-Jun-22
+Bitcoin: 30467.49
+Binance: 1834.15
+DogeCoin: 0.08277
+1-Jun-22
+Bitcoin: 29799.08
+Binance: 1823.57
+DogeCoin: 0.08106
+31-May-22
+Bitcoin: 31792.31
+Binance: 1942.33
+DogeCoin: 0.08586
+30-May-22
+Bitcoin: 31726.39
+Binance: 1996.44
+DogeCoin: 0.08787
+29-May-22
+Bitcoin: 29445.96
+Binance: 1812.03
+DogeCoin: 0.08269
+28-May-22
+Bitcoin: 29023.49
+Binance: 1792.42
+DogeCoin: 0.08184
+27-May-22
+Bitcoin: 28627.57
+Binance: 1724.92
+DogeCoin: 0.08133
+26-May-22
+Bitcoin: 29267.22
+Binance: 1803.91
+DogeCoin: 0.07825
+25-May-22
+Bitcoin: 29562.36
+Binance: 1944.83
+DogeCoin: 0.08299
+24-May-22
+Bitcoin: 29655.59
+Binance: 1978.98
+DogeCoin: 0.08364
+23-May-22
+Bitcoin: 29098.91
+Binance: 1972.18
+DogeCoin: 0.08325
+22-May-22
+Bitcoin: 30323.72
+Binance: 2043.17
+DogeCoin: 0.08611
+21-May-22
+Bitcoin: 29432.23
+Binance: 1974.52
+DogeCoin: 0.08446
+20-May-22
+Bitcoin: 29200.74
+Binance: 1961.32
+DogeCoin: 0.08398
+19-May-22
+Bitcoin: 30314.33
+Binance: 2018.34
+DogeCoin: 0.08672
+18-May-22
+Bitcoin: 28720.27
+Binance: 1916.66
+DogeCoin: 0.08365
+17-May-22
+Bitcoin: 30425.86
+Binance: 2090.41
+DogeCoin: 0.09021
+16-May-22
+Bitcoin: 29862.92
+Binance: 2022.73
+DogeCoin: 0.08784
+15-May-22
+Bitcoin: 31305.11
+Binance: 2145.71
+DogeCoin: 0.09284
+14-May-22
+Bitcoin: 30101.27
+Binance: 2056.27
+DogeCoin: 0.08980
+13-May-22
+Bitcoin: 29283.10
+Binance: 2014.42
+DogeCoin: 0.08833
+12-May-22
+Bitcoin: 29047.75
+Binance: 1961.70
+DogeCoin: 0.08267
+11-May-22
+Bitcoin: 28936.36
+Binance: 2072.11
+DogeCoin: 0.08458
+10-May-22
+Bitcoin: 31022.91
+Binance: 2343.51
+DogeCoin: 0.10850
+9-May-22
+Bitcoin: 30296.95
+Binance: 2245.43
+DogeCoin: 0.10480
+8-May-22
+Bitcoin: 34059.26
+Binance: 2517.46
+DogeCoin: 0.12420
+7-May-22
+Bitcoin: 35501.95
+Binance: 2636.09
+DogeCoin: 0.12750
+6-May-22
+Bitcoin: 36040.92
+Binance: 2694.98
+DogeCoin: 0.12790
+5-May-22
+Bitcoin: 36575.14
+Binance: 2749.21
+DogeCoin: 0.12840
+4-May-22
+Bitcoin: 39698.37
+Binance: 2940.64
+DogeCoin: 0.13580
+3-May-22
+Bitcoin: 37750.45
+Binance: 2783.48
+DogeCoin: 0.12950
+2-May-22
+Bitcoin: 38529.33
+Binance: 2857.41
+DogeCoin: 0.13090
+1-May-22
+Bitcoin: 38469.09
+Binance: 2827.76
+DogeCoin: 0.13280
+30-Apr-22
+Bitcoin: 37714.88
+Binance: 2730.19
+DogeCoin: 0.12760
+29-Apr-22
+Bitcoin: 38609.82
+Binance: 2815.60
+DogeCoin: 0.13500
+28-Apr-22
+Bitcoin: 39773.83
+Binance: 2936.94
+DogeCoin: 0.13740
+27-Apr-22
+Bitcoin: 39241.12
+Binance: 2888.93
+DogeCoin: 0.13970
+26-Apr-22
+Bitcoin: 38117.46
+Binance: 2808.30
+DogeCoin: 0.13780
+25-Apr-22
+Bitcoin: 40458.31
+Binance: 3009.39
+DogeCoin: 0.15800
+24-Apr-22
+Bitcoin: 39469.29
+Binance: 2922.73
+DogeCoin: 0.13190
+23-Apr-22
+Bitcoin: 39486.73
+Binance: 2938.11
+DogeCoin: 0.13420
+22-Apr-22
+Bitcoin: 39740.32
+Binance: 2964.84
+DogeCoin: 0.13640
+21-Apr-22
+Bitcoin: 40527.36
+Binance: 2987.48
+DogeCoin: 0.13640
+20-Apr-22
+Bitcoin: 41374.38
+Binance: 3077.75
+DogeCoin: 0.14090
+19-Apr-22
+Bitcoin: 41502.75
+Binance: 3104.11
+DogeCoin: 0.14270
+18-Apr-22
+Bitcoin: 40826.21
+Binance: 3057.61
+DogeCoin: 0.14030
+17-Apr-22
+Bitcoin: 39716.95
+Binance: 2993.40
+DogeCoin: 0.13950
+16-Apr-22
+Bitcoin: 40424.48
+Binance: 3062.31
+DogeCoin: 0.14370
+15-Apr-22
+Bitcoin: 40553.46
+Binance: 3040.92
+DogeCoin: 0.14600
+14-Apr-22
+Bitcoin: 39935.52
+Binance: 3019.91
+DogeCoin: 0.14390
+13-Apr-22
+Bitcoin: 41166.73
+Binance: 3118.34
+DogeCoin: 0.14010
+12-Apr-22
+Bitcoin: 40127.18
+Binance: 3030.38
+DogeCoin: 0.13810
+11-Apr-22
+Bitcoin: 39521.90
+Binance: 2981.05
+DogeCoin: 0.13470
+10-Apr-22
+Bitcoin: 42207.67
+Binance: 3211.87
+DogeCoin: 0.14950
+9-Apr-22
+Bitcoin: 42782.14
+Binance: 3261.92
+DogeCoin: 0.14430
+8-Apr-22
+Bitcoin: 42287.66
+Binance: 3192.07
+DogeCoin: 0.14250
+7-Apr-22
+Bitcoin: 43503.85
+Binance: 3233.27
+DogeCoin: 0.14610
+6-Apr-22
+Bitcoin: 43206.74
+Binance: 3171.69
+DogeCoin: 0.14340
+5-Apr-22
+Bitcoin: 45555.99
+Binance: 3411.79
+DogeCoin: 0.17290
+4-Apr-22
+Bitcoin: 46622.67
+Binance: 3521.24
+DogeCoin: 0.14860
+3-Apr-22
+Bitcoin: 46453.57
+Binance: 3522.83
+DogeCoin: 0.14650
+2-Apr-22
+Bitcoin: 45868.95
+Binance: 3445.06
+DogeCoin: 0.13890
+1-Apr-22
+Bitcoin: 46281.64
+Binance: 3449.55
+DogeCoin: 0.14130
+31-Mar-22
+Bitcoin: 45538.68
+Binance: 3281.64
+DogeCoin: 0.13780
+30-Mar-22
+Bitcoin: 47062.66
+Binance: 3385.16
+DogeCoin: 0.14320
+29-Mar-22
+Bitcoin: 47465.73
+Binance: 3401.99
+DogeCoin: 0.14450
+28-Mar-22
+Bitcoin: 47128.01
+Binance: 3336.63
+DogeCoin: 0.14270
+27-Mar-22
+Bitcoin: 46820.49
+Binance: 3291.58
+DogeCoin: 0.14470
+26-Mar-22
+Bitcoin: 44500.83
+Binance: 3143.18
+DogeCoin: 0.13590
+25-Mar-22
+Bitcoin: 44348.73
+Binance: 3106.67
+DogeCoin: 0.13100
+24-Mar-22
+Bitcoin: 43960.93
+Binance: 3108.06
+DogeCoin: 0.13650
+23-Mar-22
+Bitcoin: 42892.96
+Binance: 3031.07
+DogeCoin: 0.12970
+22-Mar-22
+Bitcoin: 42358.81
+Binance: 2973.13
+DogeCoin: 0.12250
+21-Mar-22
+Bitcoin: 41078.00
+Binance: 2897.98
+DogeCoin: 0.11930
+20-Mar-22
+Bitcoin: 41247.82
+Binance: 2860.46
+DogeCoin: 0.11920
+19-Mar-22
+Bitcoin: 42190.65
+Binance: 2946.26
+DogeCoin: 0.12360
+18-Mar-22
+Bitcoin: 41801.15
+Binance: 2945.34
+DogeCoin: 0.11930
+17-Mar-22
+Bitcoin: 40951.38
+Binance: 2814.85
+DogeCoin: 0.11650
+16-Mar-22
+Bitcoin: 41143.93
+Binance: 2772.06
+DogeCoin: 0.11690
+15-Mar-22
+Bitcoin: 39338.79
+Binance: 2620.15
+DogeCoin: 0.11280
+14-Mar-22
+Bitcoin: 39666.76
+Binance: 2590.70
+DogeCoin: 0.11400
+13-Mar-22
+Bitcoin: 37849.66
+Binance: 2518.94
+DogeCoin: 0.11160
+12-Mar-22
+Bitcoin: 38904.01
+Binance: 2574.75
+DogeCoin: 0.11510
+11-Mar-22
+Bitcoin: 38794.97
+Binance: 2559.56
+DogeCoin: 0.11560
+10-Mar-22
+Bitcoin: 39437.46
+Binance: 2608.05
+DogeCoin: 0.11690
+9-Mar-22
+Bitcoin: 41982.93
+Binance: 2729.78
+DogeCoin: 0.12160
+8-Mar-22
+Bitcoin: 38737.27
+Binance: 2576.75
+DogeCoin: 0.11700
+7-Mar-22
+Bitcoin: 38062.04
+Binance: 2497.77
+DogeCoin: 0.11710
+6-Mar-22
+Bitcoin: 38419.98
+Binance: 2555.04
+DogeCoin: 0.12080
+5-Mar-22
+Bitcoin: 39400.58
+Binance: 2664.83
+DogeCoin: 0.12500
+4-Mar-22
+Bitcoin: 39137.60
+Binance: 2617.16
+DogeCoin: 0.12260
+3-Mar-22
+Bitcoin: 42451.79
+Binance: 2834.47
+DogeCoin: 0.12960
+2-Mar-22
+Bitcoin: 43924.12
+Binance: 2950.12
+DogeCoin: 0.13300
+1-Mar-22
+Bitcoin: 44354.64
+Binance: 2972.49
+DogeCoin: 0.13390
+28-Feb-22
+Bitcoin: 43193.23
+Binance: 2919.20
+DogeCoin: 0.13320
+27-Feb-22
+Bitcoin: 37709.78
+Binance: 2621.80
+DogeCoin: 0.12310
+26-Feb-22
+Bitcoin: 39105.15
+Binance: 2781.11
+DogeCoin: 0.12760
+25-Feb-22
+Bitcoin: 39214.22
+Binance: 2764.54
+DogeCoin: 0.12760
+24-Feb-22
+Bitcoin: 38332.61
+Binance: 2598.07
+DogeCoin: 0.12380
+23-Feb-22
+Bitcoin: 37296.57
+Binance: 2590.36
+DogeCoin: 0.12780
+22-Feb-22
+Bitcoin: 38286.03
+Binance: 2639.30
+DogeCoin: 0.13160
+21-Feb-22
+Bitcoin: 37075.28
+Binance: 2573.82
+DogeCoin: 0.12850
+20-Feb-22
+Bitcoin: 38431.38
+Binance: 2628.65
+DogeCoin: 0.13690
+19-Feb-22
+Bitcoin: 40122.15
+Binance: 2763.70
+DogeCoin: 0.14120
+18-Feb-22
+Bitcoin: 40030.98
+Binance: 2785.73
+DogeCoin: 0.13880
+17-Feb-22
+Bitcoin: 40538.01
+Binance: 2881.48
+DogeCoin: 0.13860
+16-Feb-22
+Bitcoin: 43961.86
+Binance: 3127.83
+DogeCoin: 0.14910
+15-Feb-22
+Bitcoin: 44575.20
+Binance: 3179.88
+DogeCoin: 0.15180
+14-Feb-22
+Bitcoin: 42586.92
+Binance: 2933.48
+DogeCoin: 0.14600
+13-Feb-22
+Bitcoin: 42197.52
+Binance: 2883.46
+DogeCoin: 0.14890
+12-Feb-22
+Bitcoin: 42244.47
+Binance: 2917.36
+DogeCoin: 0.14440
+11-Feb-22
+Bitcoin: 42407.94
+Binance: 2927.38
+DogeCoin: 0.14480
+10-Feb-22
+Bitcoin: 43565.11
+Binance: 3077.48
+DogeCoin: 0.15190
+9-Feb-22
+Bitcoin: 44338.80
+Binance: 3239.46
+DogeCoin: 0.15910
+8-Feb-22
+Bitcoin: 44118.45
+Binance: 3122.61
+DogeCoin: 0.15840
+7-Feb-22
+Bitcoin: 43840.29
+Binance: 3142.47
+DogeCoin: 0.16560
+6-Feb-22
+Bitcoin: 42412.43
+Binance: 3057.48
+DogeCoin: 0.15380
+5-Feb-22
+Bitcoin: 41441.16
+Binance: 3014.65
+DogeCoin: 0.14710
+4-Feb-22
+Bitcoin: 41500.88
+Binance: 2983.59
+DogeCoin: 0.14750
+3-Feb-22
+Bitcoin: 37154.60
+Binance: 2679.16
+DogeCoin: 0.13750
+2-Feb-22
+Bitcoin: 36952.98
+Binance: 2682.85
+DogeCoin: 0.13720
+1-Feb-22
+Bitcoin: 38743.27
+Binance: 2792.12
+DogeCoin: 0.14260
+31-Jan-22
+Bitcoin: 38483.13
+Binance: 2688.28
+DogeCoin: 0.14180
+30-Jan-22
+Bitcoin: 37917.60
+Binance: 2603.47
+DogeCoin: 0.13950
+29-Jan-22
+Bitcoin: 38138.18
+Binance: 2597.08
+DogeCoin: 0.14310
+28-Jan-22
+Bitcoin: 37784.33
+Binance: 2547.09
+DogeCoin: 0.14170
+27-Jan-22
+Bitcoin: 37138.23
+Binance: 2423.00
+DogeCoin: 0.14120
+26-Jan-22
+Bitcoin: 36852.12
+Binance: 2468.03
+DogeCoin: 0.14380
+25-Jan-22
+Bitcoin: 36954.00
+Binance: 2455.93
+DogeCoin: 0.14300
+24-Jan-22
+Bitcoin: 36654.33
+Binance: 2440.35
+DogeCoin: 0.13780
+23-Jan-22
+Bitcoin: 36276.80
+Binance: 2535.04
+DogeCoin: 0.14190
+22-Jan-22
+Bitcoin: 35030.25
+Binance: 2405.18
+DogeCoin: 0.13290
+21-Jan-22
+Bitcoin: 36457.32
+Binance: 2557.93
+DogeCoin: 0.14260
+20-Jan-22
+Bitcoin: 40680.42
+Binance: 3001.12
+DogeCoin: 0.15520
+19-Jan-22
+Bitcoin: 41744.33
+Binance: 3095.83
+DogeCoin: 0.16240
+18-Jan-22
+Bitcoin: 42375.63
+Binance: 3164.03
+DogeCoin: 0.16550
+17-Jan-22
+Bitcoin: 42250.55
+Binance: 3212.30
+DogeCoin: 0.17110
+16-Jan-22
+Bitcoin: 43113.88
+Binance: 3350.92
+DogeCoin: 0.17720
+15-Jan-22
+Bitcoin: 43177.40
+Binance: 3330.53
+DogeCoin: 0.18510
+14-Jan-22
+Bitcoin: 43099.70
+Binance: 3310.00
+DogeCoin: 0.18350
+13-Jan-22
+Bitcoin: 42591.57
+Binance: 3248.29
+DogeCoin: 0.17200
+12-Jan-22
+Bitcoin: 43949.10
+Binance: 3372.26
+DogeCoin: 0.16170
+11-Jan-22
+Bitcoin: 42735.85
+Binance: 3238.11
+DogeCoin: 0.15340
+10-Jan-22
+Bitcoin: 41821.26
+Binance: 3083.10
+DogeCoin: 0.14340
+9-Jan-22
+Bitcoin: 41911.60
+Binance: 3157.75
+DogeCoin: 0.15110
+8-Jan-22
+Bitcoin: 41733.94
+Binance: 3091.97
+DogeCoin: 0.15200
+7-Jan-22
+Bitcoin: 41557.90
+Binance: 3193.21
+DogeCoin: 0.15500
+6-Jan-22
+Bitcoin: 43160.93
+Binance: 3418.41
+DogeCoin: 0.16020
+5-Jan-22
+Bitcoin: 43569.00
+Binance: 3550.39
+DogeCoin: 0.15940
+4-Jan-22
+Bitcoin: 45897.58
+Binance: 3794.06
+DogeCoin: 0.16880
+3-Jan-22
+Bitcoin: 46458.12
+Binance: 3761.38
+DogeCoin: 0.17010
+2-Jan-22
+Bitcoin: 47345.22
+Binance: 3829.57
+DogeCoin: 0.17440
+1-Jan-22
+Bitcoin: 47686.81
+Binance: 3769.70
+DogeCoin: 0.17300
