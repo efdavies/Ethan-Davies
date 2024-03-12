@@ -1,0 +1,36 @@
+from pgl import GWindow , GRect , GOval
+SQ_SIZE = 50 # Size of the game grid and width of the frog
+GW_WIDTH = 5 * SQ_SIZE # Width of the game window
+GW_HEIGHT = 10 * SQ_SIZE # Height of the game window
+CAR_WIDTH = 2 * SQ_SIZE # Width of the car
+CAR_HEIGHT = SQ_SIZE # Height of the car
+CAR_INIT_X = GW_WIDTH # Initial X coordinate of the car
+CAR_INIT_Y = SQ_SIZE * 4 # Initial Y coordinate of the car
+CAR_DX = 2 # Speed of the car (amount moved per step)
+
+gw=GWindow(GW_WIDTH,GW_HEIGHT)
+
+def frog():
+    frog=GOval(GW_WIDTH/2-SQ_SIZE/2, GW_HEIGHT-SQ_SIZE,SQ_SIZE,SQ_SIZE)
+    frog.set_fill_color("green")
+    frog.set_filled(True)
+    gw.add(frog)
+
+    square = GRect(CAR_INIT_X,CAR_INIT_Y,CAR_WIDTH, CAR_HEIGHT)
+    square.set_filled(True)
+    square.set_color("Red")
+    gw.add(square)
+
+    def on_mouse_down(event):
+        x=event.get_x()
+        y=event.get_y()
+        if frog.contains(x,y):
+            frog.move(0,-SQ_SIZE)
+    def step():
+        square.move(-CAR_DX, 0)
+        
+
+    timer = gw.set_interval(step, 30)
+    gw.add_event_listener("click",on_mouse_down)
+if __name__=='__main__':
+    frog()
